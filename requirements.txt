@@ -1,6 +1,5 @@
 Flask
 PyPDF2
-gensim
 requests
 transformers
 google
@@ -9,5 +8,8 @@ beautifulsoup4
 openai
 pandas
 scikit-learn
+scipy==1.12.0
+gensim==4.3.2
+numpy
 
 
